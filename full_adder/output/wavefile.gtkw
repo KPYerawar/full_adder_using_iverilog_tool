@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.108 (w)1999-2020 BSI
+[*] Sat Aug 24 15:11:04 2024
+[*]
+[dumpfile] "C:\Users\krush\OneDrive\Desktop\full_adder\dump.vcd"
+[dumpfile_mtime] "Sat Aug 24 15:00:04 2024"
+[dumpfile_size] 705
+[savefile] "C:\Users\krush\OneDrive\Desktop\full_adder\wavefile.gtkw"
+[timestart] 0
+[size] 1366 681
+[pos] -157 -53
+*-7.500000 356 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 254
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 184
+@28
+testbench.a
+testbench.b
+testbench.c
+testbench.carry
+@29
+testbench.sum
+[pattern_trace] 1
+[pattern_trace] 0
